@@ -1,0 +1,1151 @@
+﻿Log file open, 04/26/19 12:21:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VisualNovel
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281251
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.111s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=DanPaddock -epicuserid=643bc9acaf9a453f9891b04269bf9ce4 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.04.26-16.21.30:071][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.26-16.21.30:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:072][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:075][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.26-16.21.30:075][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.26-16.21.30:076][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.26-16.21.30:076][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.26-16.21.30:076][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.26-16.21.30:088][  0]LogHAL: Display: Platform has ~ 8 GB [8540143616 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.26-16.21.30:089][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.26-16.21.30:089][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Scalability.ini]
+[2019.04.26-16.21.30:090][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.26-16.21.30:090][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.26-16.21.30:090][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.26-16.21.30:090][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.26-16.21.30:090][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Config/Windows/Engine.ini]
+[2019.04.26-16.21.30:090][  0]LogInit: Computer: DESKTOP-5K8G981
+[2019.04.26-16.21.30:090][  0]LogInit: User: DanTheMan
+[2019.04.26-16.21.30:090][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.26-16.21.30:090][  0]LogInit: High frequency timer resolution =3.914066 MHz
+[2019.04.26-16.21.30:090][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.04.26-16.21.30:090][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.26-16.21.30:090][  0]LogMemory: Process Physical Memory: 103.27 MB used, 103.27 MB peak
+[2019.04.26-16.21.30:090][  0]LogMemory: Process Virtual Memory: 92.24 MB used, 92.24 MB peak
+[2019.04.26-16.21.30:090][  0]LogMemory: Physical Memory: 3349.23 MB used,  4795.29 MB free, 8144.52 MB total
+[2019.04.26-16.21.30:090][  0]LogMemory: Virtual Memory: 4648.94 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.26-16.21.30:108][  0]LogInit: Using OS detected language (en-US).
+[2019.04.26-16.21.30:108][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.26-16.21.30:109][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.26-16.21.30:451][  0]LogStreaming: Display: Took  0.342s to InitEngineTextLocalization.
+[2019.04.26-16.21.30:451][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.26-16.21.30:477][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.26-16.21.30:477][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.26-16.21.30:672][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.26-16.21.30:672][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.26-16.21.30:712][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.04.26-16.21.30:712][  0]LogD3D11RHI:       4062/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.26-16.21.30:714][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.26-16.21.30:714][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.26-16.21.30:714][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.26-16.21.30:720][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.26-16.21.30:721][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.26-16.21.30:721][  0]LogWindows: EnumDisplayDevices:
+[2019.04.26-16.21.30:721][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.04.26-16.21.30:721][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.26-16.21.30:721][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.26-16.21.30:722][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.26-16.21.30:722][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.26-16.21.30:722][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.04.26-16.21.30:722][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.04.26-16.21.30:722][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.04.26-16.21.30:722][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2019.04.26-16.21.30:750][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.26-16.21.30:761][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.26-16.21.31:116][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.26-16.21.31:127][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.26-16.21.31:139][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.26-16.21.31:150][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.26-16.21.31:163][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.26-16.21.31:174][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.26-16.21.31:186][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.26-16.21.31:198][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.26-16.21.31:203][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.26-16.21.31:267][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.26-16.21.31:327][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.26-16.21.31:327][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.26-16.21.31:347][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.26-16.21.31:347][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.26-16.21.31:358][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.26-16.21.31:369][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.26-16.21.31:380][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.26-16.21.31:391][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.26-16.21.31:429][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.26-16.21.31:430][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.26-16.21.31:430][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.26-16.21.31:490][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Intermediate/Shaders/WorkingDirectory/6856/).
+[2019.04.26-16.21.31:490][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DanTheMan/AppData/Local/Temp/UnrealShaderWorkingDir/7A5F11DA47B1B630308D7991F3F840F5/'.
+[2019.04.26-16.21.31:492][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.26-16.21.31:492][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.26-16.21.31:492][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.26-16.21.32:002][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.26-16.21.32:061][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/DanTheMan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.26-16.21.32:061][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DanTheMan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.26-16.21.32:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.26-16.21.32:062][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.26-16.21.32:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.26-16.21.32:062][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.26-16.21.32:078][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.26-16.21.32:078][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.26-16.21.32:078][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.26-16.21.32:091][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DanTheMan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.26-16.21.32:091][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.26-16.21.32:091][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.26-16.21.32:111][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.26-16.21.32:112][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.26-16.21.32:113][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.26-16.21.32:198][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2019.04.26-16.21.32:517][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.26-16.21.32:655][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.26-16.21.32:659][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.26-16.21.32:659][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.26-16.21.32:660][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.26-16.21.32:660][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.26-16.21.32:671][  0]LogNetVersion: VisualNovel 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1281229105)
+[2019.04.26-16.21.32:731][  0]LogObj: Error: LoadConfig (/Script/Engine.Default__RendererSettings): import failed for bEnableAlphaChannelInPostProcessing in: False
+[2019.04.26-16.21.33:121][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.074109 seconds
+[2019.04.26-16.21.33:126][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.26-16.21.33:126][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.26-16.21.33:126][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.26-16.21.34:006][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.26-16.21.34:021][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.26-16.21.34:715][  0]SourceControl: Source control is disabled
+[2019.04.26-16.21.34:716][  0]SourceControl: Source control is disabled
+[2019.04.26-16.21.34:717][  0]SourceControl: Source control is disabled
+[2019.04.26-16.21.34:718][  0]SourceControl: Source control is disabled
+[2019.04.26-16.21.34:906][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.26-16.21.35:006][  0]LogOcInput: OculusInput pre-init called
+[2019.04.26-16.21.35:193][  0]LogEngine: Initializing Engine...
+[2019.04.26-16.21.35:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.26-16.21.35:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.26-16.21.35:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.26-16.21.35:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.26-16.21.35:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.26-16.21.35:398][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.26-16.21.35:413][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.26-16.21.35:430][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.21.35:446][  0]LogInit: FAudioDevice initialized.
+[2019.04.26-16.21.35:446][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.26-16.21.35:574][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/DanTheMan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.26-16.21.35:580][  0]LogInit: Texture streaming: Enabled
+[2019.04.26-16.21.35:599][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.26-16.21.35:612][  0]LogInit: Transaction tracking system initialized
+[2019.04.26-16.21.35:637][  0]BlueprintLog: New page: Editor Load
+[2019.04.26-16.21.35:710][  0]LocalizationService: Localization service is disabled
+[2019.04.26-16.21.36:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DanTheMan/repos/Crytography/VisualNovel/Content/' took 0.02s
+[2019.04.26-16.21.36:156][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.26-16.21.36:156][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.26-16.21.36:157][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.26-16.21.36:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.26-16.21.36:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.26-16.21.36:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.26-16.21.36:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.26-16.21.36:286][  0]SourceControl: Source control is disabled
+[2019.04.26-16.21.36:286][  0]Cmd: MAP LOAD FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-16.21.36:286][  0]LightingResults: New page: Lighting Build
+[2019.04.26-16.21.36:289][  0]MapCheck: New page: Map Check
+[2019.04.26-16.21.36:289][  0]LightingResults: New page: Lighting Build
+[2019.04.26-16.21.37:457][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.21.37:463][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.26-16.21.37:486][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-16.21.37:486][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2019.04.26-16.21.37:486][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.199
+[2019.04.26-16.21.37:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.21.37:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.21.37:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.21.37:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.21.37:657][  0]LogCollectionManager: Loaded 0 collections in 0.001834 seconds
+[2019.04.26-16.21.37:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Collections/' took 0.01s
+[2019.04.26-16.21.37:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DanTheMan/repos/Crytography/VisualNovel/Content/Developers/DanTheMan/Collections/' took 0.00s
+[2019.04.26-16.21.37:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DanTheMan/repos/Crytography/VisualNovel/Content/Collections/' took 0.01s
+[2019.04.26-16.21.37:719][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.26-16.21.37:740][  0]LogContentBrowser: Native class hierarchy populated in 0.0186 seconds. Added 2651 classes and 620 folders.
+[2019.04.26-16.21.37:764][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.26-16.21.37:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.37:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.26-16.21.38:037][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.26-16.21.38:075][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.26-16.21.38:185][  0]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.26-16.21.38:200][  0]LogSlate: Took 0.008770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.26-16.21.38:217][  0]LogSlate: Took 0.005800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.26-16.21.38:310][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.26-16.21.38:427][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.26-16.21.38:427][  0]LogLoad: (Engine Initialization) Total time: 10.45 seconds
+[2019.04.26-16.21.38:427][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.26-16.21.38:501][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.26-16.21.38:516][  0]LogSlate: Took 0.005169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.26-16.21.39:035][  5]LogAssetRegistry: Asset discovery search completed in 6.8581 seconds
+[2019.04.26-16.21.39:036][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.26-16.21.39:036][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.04.26-16.24.37:117][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.24.39:393][286]LogSlate: Took 0.001546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.26-16.24.39:401][286]LogAssetEditorManager: Opening Asset editor for DataTable /Game/2DSideScrollerBP/CryptogText.CryptogText
+[2019.04.26-16.25.32:969][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/CryptogText" FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset" SILENT=true
+[2019.04.26-16.25.33:072][312]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogText1156013645E05CE61EBEEDB8B4A2E00B.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset'
+[2019.04.26-16.25.36:739][736]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.25.36:750][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.25.36:752][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.25.36:761][736]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:25:36 AM)
+[2019.04.26-16.25.36:782][736]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.25.36:789][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006984s)
+[2019.04.26-16.25.36:789][736]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.25.36:791][736]LogPlayLevel: PIE: World Init took: (0.002398s)
+[2019.04.26-16.25.36:791][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.009807s)
+[2019.04.26-16.25.36:821][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.25.36:838][736]LogInit: FAudioDevice initialized.
+[2019.04.26-16.25.36:847][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.25.36:900][736]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.25.36:919][736]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.25.36
+[2019.04.26-16.25.36:927][736]LogWorld: Bringing up level for play took: 0.012152
+[2019.04.26-16.25.36:962][736]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.25.36:996][736]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.04.26-16.25.37:028][736]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.336
+[2019.04.26-16.25.37:030][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.25.37:041][736]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.25.37:098][736]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.04.26-16.25.37:991][832]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.27.10:623][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.27.10:733][910]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.27.10:741][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.27.10:781][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.27.10:781][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.27.10:857][911]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.26-16.27.15:793][431]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.27.15:796][431]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.27.21:563][111]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/BackgroundImage.BackgroundImage
+[2019.04.26-16.27.22:026][111]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.26-16.27.22:944][111]LogSlate: Took 0.001601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.26-16.27.25:916][364]LogSlate: Took 0.001149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.26-16.28.07:023][192]BlueprintLog: New page: Compile BackgroundImage
+[2019.04.26-16.28.07:748][243]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/BackgroundImage5DEE4CB1495E43D60DCD67B612233486.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Widgets/BackgroundImage.uasset'
+[2019.04.26-16.28.12:080][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/CryptogText" FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset" SILENT=true
+[2019.04.26-16.28.12:116][723]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogText42B7234141C267D73A1E318E12675B06.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset'
+[2019.04.26-16.28.13:113][841]LogSlate: Window 'BackgroundImage' being destroyed
+[2019.04.26-16.28.13:117][841]LogSlate: Window 'BackgroundImage' being destroyed
+[2019.04.26-16.28.23:097][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/SceneTemplate.SceneTemplate
+[2019.04.26-16.28.38:283][638]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.28.39:909][775]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateDDEE0C914E1E6F66167DE69F683DDCCA.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.28.40:730][869]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.28.40:742][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.28.40:743][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.28.40:743][869]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:28:40 AM)
+[2019.04.26-16.28.40:743][869]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.28.40:745][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2019.04.26-16.28.40:745][869]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.28.40:745][869]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2019.04.26-16.28.40:745][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002752s)
+[2019.04.26-16.28.40:778][869]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.28.40:793][869]LogInit: FAudioDevice initialized.
+[2019.04.26-16.28.40:799][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.28.40:841][869]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.28.40:842][869]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.28.40
+[2019.04.26-16.28.40:843][869]LogWorld: Bringing up level for play took: 0.000862
+[2019.04.26-16.28.40:854][869]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.28.40:863][869]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.172
+[2019.04.26-16.28.40:863][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.28.40:863][869]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.28.41:382][917]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.28.47:743][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.28.47:827][613]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.28.47:833][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.28.47:878][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.28.47:878][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.28.47:960][614]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.26-16.28.49:451][771]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.28.49:455][771]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.29.26:624][939]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.29.27:335][979]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate2417D08B480F28A33256CF8A6459F11B.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.29.43:518][835]LogSlate: Window 'SceneTemplate' being destroyed
+[2019.04.26-16.29.43:521][835]LogSlate: Window 'SceneTemplate' being destroyed
+[2019.04.26-16.29.48:428][410]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/CryptographyGUI.CryptographyGUI
+[2019.04.26-16.30.04:450][173]BlueprintLog: New page: Compile CryptographyGUI
+[2019.04.26-16.30.05:149][200]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptographyGUI49931E1C40919EC21AC216A907F08871.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Widgets/CryptographyGUI.uasset'
+[2019.04.26-16.30.09:310][681]LogSlate: Window 'CryptographyGUI' being destroyed
+[2019.04.26-16.30.09:313][681]LogSlate: Window 'CryptographyGUI' being destroyed
+[2019.04.26-16.30.10:598][829]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/CryptographyGUI2.CryptographyGUI2
+[2019.04.26-16.30.34:187][991]BlueprintLog: New page: Compile CryptographyGUI2
+[2019.04.26-16.30.34:853][ 10]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptographyGUI24E28C5CE46F7BBCF3A5BF2979B2174ED.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Widgets/CryptographyGUI2.uasset'
+[2019.04.26-16.30.37:643][338]LogSlate: Window 'CryptographyGUI2' being destroyed
+[2019.04.26-16.30.37:647][338]LogSlate: Window 'CryptographyGUI2' being destroyed
+[2019.04.26-16.30.38:757][462]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/CryptographyGUI3.CryptographyGUI3
+[2019.04.26-16.30.55:468][316]BlueprintLog: New page: Compile CryptographyGUI3
+[2019.04.26-16.30.56:041][330]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptographyGUI3C4FECAB54E6567768E79ADB5E8BB52F2.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Widgets/CryptographyGUI3.uasset'
+[2019.04.26-16.30.56:591][392]LogSlate: Window 'CryptographyGUI3' being destroyed
+[2019.04.26-16.30.57:517][496]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/CryptographyGUI4.CryptographyGUI4
+[2019.04.26-16.31.08:454][494]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Element not found.]
+[2019.04.26-16.31.11:191][729]BlueprintLog: New page: Compile CryptographyGUI4
+[2019.04.26-16.31.11:781][749]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptographyGUI45D25800847170BC97D5802858A0ADABA.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Widgets/CryptographyGUI4.uasset'
+[2019.04.26-16.31.16:967][283]BlueprintLog: New page: Compile CryptographyGUI4
+[2019.04.26-16.31.17:502][289]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptographyGUI4D46083EB406FCA342E778C9580E44443.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Widgets/CryptographyGUI4.uasset'
+[2019.04.26-16.31.18:083][344]LogSlate: Window 'CryptographyGUI4' being destroyed
+[2019.04.26-16.31.21:157][707]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.31.21:165][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.31.21:165][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.31.21:165][707]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:31:21 AM)
+[2019.04.26-16.31.21:165][707]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.31.21:167][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002181s)
+[2019.04.26-16.31.21:168][707]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.31.21:168][707]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2019.04.26-16.31.21:168][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002771s)
+[2019.04.26-16.31.21:200][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.31.21:213][707]LogInit: FAudioDevice initialized.
+[2019.04.26-16.31.21:219][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.31.21:253][707]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.31.21:255][707]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.31.21
+[2019.04.26-16.31.21:255][707]LogWorld: Bringing up level for play took: 0.000938
+[2019.04.26-16.31.21:268][707]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.31.21:276][707]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.584
+[2019.04.26-16.31.21:276][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.31.21:277][707]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.31.22:045][791]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.32.33:608][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.32.33:757][393]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.32.33:761][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.32.33:792][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.32.33:793][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.32.33:858][396]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.26-16.32.34:949][527]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.32.34:953][527]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.33.46:383][413]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/SceneTemplate.SceneTemplate
+[2019.04.26-16.34.52:371][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.064
+[2019.04.26-16.34.52:385][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/SceneTemplate] ([1] browsable assets)...
+[2019.04.26-16.34.52:385][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/SceneTemplate]
+[2019.04.26-16.34.52:468][943]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate_Auto15632FF304FFCE69A36AB9786B3B8D635.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/SceneTemplate_Auto1.uasset'
+[2019.04.26-16.34.52:470][943]LogFileHelpers: Auto-saving content packages took 0.098
+[2019.04.26-16.35.18:916][883]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.35.18:961][883]LogBlueprint: Error: [Compiler SceneTemplate] This blueprint (self) is not a GameMode, therefore ' Target ' must have a connection.
+[2019.04.26-16.35.19:128][883]LogBlueprint: Warning: [Compiler SceneTemplate] [0831.15] Compile of SceneTemplate failed. 1 Fatal Issue(s) 0 Warning(s) [in 212 ms] (/Game/2DSideScrollerBP/Blueprints/SceneTemplate.SceneTemplate)
+[2019.04.26-16.37.00:710][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/NPC_TouchClickActor.NPC_TouchClickActor
+[2019.04.26-16.37.17:937][610]BlueprintLog: New page: Compile NPC_TouchClickActor
+[2019.04.26-16.37.18:380][636]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/NPC_TouchClickActor36CBD9A44E8F2BB6AF541986E9B1895F.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/NPC_TouchClickActor.uasset'
+[2019.04.26-16.37.19:038][713]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.37.19:050][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.37.19:050][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.37.20:855][713]LogSlate: Window 'Message' being destroyed
+[2019.04.26-16.37.27:415][454]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.37.27:833][463]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate97499F4B45FADAA0F60D0AB8A84F613A.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.37.28:791][575]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.37.28:803][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.37.28:803][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.37.28:803][575]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:37:28 AM)
+[2019.04.26-16.37.28:803][575]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.37.28:805][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002429s)
+[2019.04.26-16.37.28:806][575]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.37.28:806][575]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2019.04.26-16.37.28:806][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003087s)
+[2019.04.26-16.37.28:839][575]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.37.28:852][575]LogInit: FAudioDevice initialized.
+[2019.04.26-16.37.28:857][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.37.28:895][575]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.37.28:895][575]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.37.28
+[2019.04.26-16.37.28:895][575]LogWorld: Bringing up level for play took: 0.000926
+[2019.04.26-16.37.28:907][575]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.37.28:919][575]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.229
+[2019.04.26-16.37.28:920][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.37.28:920][575]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.37.29:683][645]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.37.33:041][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.37.33:156][ 21]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.37.33:161][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.37.33:195][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.37.33:195][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.37.33:255][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.26-16.37.36:436][393]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.37.36:440][393]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.38.10:204][132]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.04.26-16.38.43:373][783]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.38.43:418][783]LogBlueprint: Error: [Compiler SceneTemplate] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.26-16.38.43:418][783]LogBlueprint: Error: [Compiler SceneTemplate] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.26-16.38.43:558][783]LogBlueprint: Warning: [Compiler SceneTemplate] [1035.58] Compile of SceneTemplate failed. 2 Fatal Issue(s) 0 Warning(s) [in 184 ms] (/Game/2DSideScrollerBP/Blueprints/SceneTemplate.SceneTemplate)
+[2019.04.26-16.38.43:901][800]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateC3ACCD614F5937374E9B349F786E3EF9.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.39.15:501][257]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.39.16:078][277]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateAE311E2540546D94573469A2458B9C37.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.39.17:172][396]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.39.17:184][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.39.17:185][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.39.17:185][396]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:39:17 AM)
+[2019.04.26-16.39.17:185][396]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.39.17:187][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002154s)
+[2019.04.26-16.39.17:187][396]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.39.17:187][396]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.04.26-16.39.17:187][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002741s)
+[2019.04.26-16.39.17:219][396]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.39.17:232][396]LogInit: FAudioDevice initialized.
+[2019.04.26-16.39.17:237][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.39.17:279][396]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.39.17:280][396]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.39.17
+[2019.04.26-16.39.17:280][396]LogWorld: Bringing up level for play took: 0.000846
+[2019.04.26-16.39.17:292][396]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.39.17:300][396]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.609
+[2019.04.26-16.39.17:300][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.39.17:300][396]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.39.17:771][434]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.40.20:020][599]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [2DSideScrollerCharacter_C]
+[2019.04.26-16.40.25:697][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.40.25:804][153]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.40.25:811][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.40.25:851][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.40.25:851][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.40.25:945][154]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.26-16.40.26:989][259]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.40.26:992][259]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.40.51:674][ 31]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.40.52:247][ 54]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate37006BF04CBAC6CD3CB5DC807401DD49.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.40.56:535][559]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.40.57:158][580]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateA6A6301C4367D5DDEE4B849D8DA165EF.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.40.57:950][667]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.40.57:962][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.40.57:962][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.40.57:962][667]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:40:57 AM)
+[2019.04.26-16.40.57:962][667]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.40.57:964][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002161s)
+[2019.04.26-16.40.57:965][667]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.40.57:965][667]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.04.26-16.40.57:965][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002784s)
+[2019.04.26-16.40.58:002][667]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.40.58:015][667]LogInit: FAudioDevice initialized.
+[2019.04.26-16.40.58:019][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.40.58:062][667]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.40.58:063][667]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.40.58
+[2019.04.26-16.40.58:064][667]LogWorld: Bringing up level for play took: 0.000925
+[2019.04.26-16.40.58:076][667]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.40.58:099][667]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.592
+[2019.04.26-16.40.58:100][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.40.58:100][667]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.40.58:640][708]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.41.27:094][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.41.27:203][828]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.41.27:210][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.41.27:248][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.41.27:248][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.41.27:327][829]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.26-16.41.28:265][930]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.41.28:267][930]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.43.05:142][928]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.43.05:711][950]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate235D328B4CD00A0D8FC576A0444035A1.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.43.06:406][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-16.43.06:418][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.43.06:418][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-16.43.06:418][ 31]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 8:43:06 AM)
+[2019.04.26-16.43.06:418][ 31]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-16.43.06:420][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002120s)
+[2019.04.26-16.43.06:421][ 31]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-16.43.06:421][ 31]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2019.04.26-16.43.06:421][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002719s)
+[2019.04.26-16.43.06:457][ 31]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-16.43.06:469][ 31]LogInit: FAudioDevice initialized.
+[2019.04.26-16.43.06:474][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-16.43.06:512][ 31]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-16.43.06:514][ 31]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-12.43.06
+[2019.04.26-16.43.06:514][ 31]LogWorld: Bringing up level for play took: 0.001447
+[2019.04.26-16.43.06:526][ 31]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-16.43.06:536][ 31]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.155
+[2019.04.26-16.43.06:536][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.43.06:536][ 31]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-16.43.07:135][ 89]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.44.08:861][983]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [2DSideScrollerCharacter_C]
+[2019.04.26-16.44.08:874][983]LogBlueprintUserMessages: [SceneTemplate_C_0] I AM CALLED
+[2019.04.26-16.44.09:868][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.44.09:959][103]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-16.44.14:930][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-16.44.15:024][666]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-16.44.15:031][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.44.15:069][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-16.44.15:069][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-16.44.15:140][667]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.26-16.44.16:114][774]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.44.16:117][774]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-16.44.18:099][  8]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-16.44.18:645][ 25]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate5629481F4D40D9DE4C5FA798AF930F78.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-16.44.22:476][444]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.04.26-16.44.22:479][444]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.04.26-16.44.22:545][444]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.26-16.44.22:602][444]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.26-16.44.28:933][186]LogAssetEditorManager: Opening Asset editor for DataTable /Game/2DSideScrollerBP/CryptogText.CryptogText
+[2019.04.26-16.49.51:724][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/CryptogText" FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset" SILENT=true
+[2019.04.26-16.49.51:758][154]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogTextD000577C4DB1ACF9391843A845D29BBF.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset'
+[2019.04.26-16.50.06:355][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/CryptogText" FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset" SILENT=true
+[2019.04.26-16.50.06:389][781]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogTextFA462D774AA15E5E973ABBA8D859FCAA.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset'
+[2019.04.26-16.51.22:876][682]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.045
+[2019.04.26-16.51.22:878][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/CryptogText] ([1] browsable assets)...
+[2019.04.26-16.51.22:878][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/CryptogText]
+[2019.04.26-16.51.22:911][682]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogText_Auto29182F1AB41D53CDDF8B334A3AA49DC25.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/Autosaves/Game/2DSideScrollerBP/CryptogText_Auto2.uasset'
+[2019.04.26-16.51.22:912][682]LogFileHelpers: Auto-saving content packages took 0.035
+[2019.04.26-17.01.33:505][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/CryptogText" FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset" SILENT=true
+[2019.04.26-17.01.33:540][ 14]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogTextD57E1A5C42FC155186BAE9902ED13089.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset'
+[2019.04.26-17.01.40:716][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/CryptogText" FILE="../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset" SILENT=true
+[2019.04.26-17.01.40:749][811]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/CryptogTextB53B11744BEC6326C7106C8A01E59D34.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/CryptogText.uasset'
+[2019.04.26-17.01.44:298][207]LogSlate: Window 'CryptogText' being destroyed
+[2019.04.26-17.01.44:302][207]LogSlate: Window 'CryptogText' being destroyed
+[2019.04.26-17.04.58:378][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-17.04.58:385][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.04.58:385][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-17.04.58:385][584]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 9:04:58 AM)
+[2019.04.26-17.04.58:385][584]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-17.04.58:388][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002430s)
+[2019.04.26-17.04.58:388][584]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-17.04.58:388][584]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2019.04.26-17.04.58:388][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003113s)
+[2019.04.26-17.04.58:418][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-17.04.58:431][584]LogInit: FAudioDevice initialized.
+[2019.04.26-17.04.58:439][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-17.04.58:473][584]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-17.04.58:475][584]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-13.04.58
+[2019.04.26-17.04.58:475][584]LogWorld: Bringing up level for play took: 0.000977
+[2019.04.26-17.04.58:488][584]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-17.04.58:491][584]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.2
+[2019.04.26-17.04.58:491][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.04.58:492][584]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-17.05.55:878][461]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-17.06.07:534][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.06.32:467][848]LogBlueprintUserMessages: [Book_C_0] 0
+[2019.04.26-17.06.32:834][892]LogBlueprintUserMessages: [Book_C_0] 1
+[2019.04.26-17.06.33:400][960]LogBlueprintUserMessages: [Book_C_0] 2
+[2019.04.26-17.06.33:784][  6]LogBlueprintUserMessages: [Book_C_0] 0
+[2019.04.26-17.06.34:075][ 41]LogBlueprintUserMessages: [Book_C_0] 1
+[2019.04.26-17.06.34:267][ 64]LogBlueprintUserMessages: [Book_C_0] 2
+[2019.04.26-17.06.34:450][ 86]LogBlueprintUserMessages: [Book_C_0] 0
+[2019.04.26-17.06.46:456][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.07.23:461][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.07.58:940][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.08.07:332][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.08.54:406][871]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [2DSideScrollerCharacter_C]
+[2019.04.26-17.08.54:406][871]LogBlueprintUserMessages: [SceneTemplate_C_0] I AM CALLED
+[2019.04.26-17.08.57:003][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.08.57:109][195]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-17.09.08:264][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.09.08:358][342]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-17.09.08:371][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.09.08:401][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-17.09.08:401][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.09.08:467][343]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.26-17.09.50:127][750]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.09.50:132][750]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.09.58:361][709]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/SceneTemplate.SceneTemplate
+[2019.04.26-17.10.41:887][494]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.10.42:378][505]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate3D5E857A40D7684DF74BFEBF2D4A0BFA.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.11.25:478][766]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.11.26:203][807]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateFEA9BF1C4D056A9CB71DF9A0507DEB5A.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.12.30:906][997]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.04.26-17.14.27:681][597]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.14.28:657][658]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate389B1EF640C261B419C7BCB05AD19014.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.20.38:980][660]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\DanTheMan\Downloads\zapsplat_multimedia_click_003_19369.wav)
+[2019.04.26-17.21.21:051][918]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.26-17.21.28:510][334]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\DanTheMan\Downloads\zapsplat_multimedia_click_003_19369.wav)
+[2019.04.26-17.21.35:989][ 97]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/ButtonClick7F3993AC4854966ADDDC7782BCA2B7D1.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Assets/ButtonClick.uasset'
+[2019.04.26-17.21.38:260][308]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.21.38:902][338]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateB1D0145C4C8130960CEF659BB0111B8B.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.22.06:734][998]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.22.07:347][ 12]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateA91803A84DD985BA1509F29DCF7DD039.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.22.08:253][ 96]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-17.22.08:263][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.22.08:263][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-17.22.08:263][ 96]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 9:22:08 AM)
+[2019.04.26-17.22.08:263][ 96]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-17.22.08:266][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2019.04.26-17.22.08:266][ 96]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-17.22.08:266][ 96]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.04.26-17.22.08:266][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002888s)
+[2019.04.26-17.22.08:299][ 96]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-17.22.08:312][ 96]LogInit: FAudioDevice initialized.
+[2019.04.26-17.22.08:319][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-17.22.08:365][ 96]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-17.22.08:366][ 96]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-13.22.08
+[2019.04.26-17.22.08:367][ 96]LogWorld: Bringing up level for play took: 0.001029
+[2019.04.26-17.22.08:379][ 96]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-17.22.08:389][ 96]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.302
+[2019.04.26-17.22.08:389][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.22.08:389][ 96]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-17.22.09:300][167]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-17.22.10:307][252]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ButtonClick...
+[2019.04.26-17.22.10:336][252]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 12968 while cooking SoundWave /Game/2DSideScrollerBP/Assets/ButtonClick.ButtonClick.
+[2019.04.26-17.22.23:001][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.22.23:099][342]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-17.22.23:106][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.22.23:140][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-17.22.23:141][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.22.23:216][343]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.04.26-17.22.24:207][429]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.22.24:212][429]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.22.48:889][937]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.22.49:537][966]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplate9D7972904FE3CE987AB9FE835C5DF0B9.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.22.50:437][ 52]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-17.22.50:446][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.22.50:447][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-17.22.50:447][ 52]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 9:22:50 AM)
+[2019.04.26-17.22.50:447][ 52]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-17.22.50:449][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002325s)
+[2019.04.26-17.22.50:450][ 52]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-17.22.50:450][ 52]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2019.04.26-17.22.50:450][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003403s)
+[2019.04.26-17.22.50:485][ 52]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-17.22.50:499][ 52]LogInit: FAudioDevice initialized.
+[2019.04.26-17.22.50:506][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-17.22.50:546][ 52]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-17.22.50:548][ 52]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-13.22.50
+[2019.04.26-17.22.50:548][ 52]LogWorld: Bringing up level for play took: 0.000830
+[2019.04.26-17.22.50:560][ 52]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-17.22.50:570][ 52]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.121
+[2019.04.26-17.22.50:570][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.22.50:571][ 52]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-17.22.51:220][101]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-17.23.02:889][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.23.09:433][647]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:1597).
+[2019.04.26-17.23.27:789][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.24.15:836][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.24.47:078][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.25.30:391][922]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [2DSideScrollerCharacter_C]
+[2019.04.26-17.25.33:275][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.25.33:403][182]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-17.25.35:389][353]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-17.25.35:394][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.25.35:426][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-17.25.35:427][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.25.35:505][354]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.26-17.25.36:748][466]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.25.36:753][466]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.25.42:556][ 91]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.26-17.25.42:566][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.25.42:566][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-17.25.42:566][ 91]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 26, 2019, 9:25:42 AM)
+[2019.04.26-17.25.42:566][ 91]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.26-17.25.42:569][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002712s)
+[2019.04.26-17.25.42:570][ 91]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.26-17.25.42:570][ 91]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.04.26-17.25.42:570][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003545s)
+[2019.04.26-17.25.42:599][ 91]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.26-17.25.42:612][ 91]LogInit: FAudioDevice initialized.
+[2019.04.26-17.25.42:619][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-17.25.42:659][ 91]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.26-17.25.42:660][ 91]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.26-13.25.42
+[2019.04.26-17.25.42:660][ 91]LogWorld: Bringing up level for play took: 0.000896
+[2019.04.26-17.25.42:672][ 91]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.04.26-17.25.42:681][ 91]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.01
+[2019.04.26-17.25.42:681][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.25.42:682][ 91]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.04.26-17.25.43:385][141]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic'.
+[2019.04.26-17.25.50:034][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-17.25.52:508][910]LogSlate: Window 'VisualNovel Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.26-17.25.52:514][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.25.52:547][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-17.25.52:547][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.26-17.25.52:622][911]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.04.26-17.25.53:506][990]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.25.53:511][990]LogSlate: Window 'Message Log' being destroyed
+[2019.04.26-17.26.11:181][946]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.26.11:782][971]LogSavePackage: Moving '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Saved/SceneTemplateCBE30C984B65DAB136502FBABFC6F7FA.tmp' to '../../../../../../Users/DanTheMan/repos/Crytography/VisualNovel/Content/2DSideScrollerBP/Blueprints/SceneTemplate.uasset'
+[2019.04.26-17.26.56:303][351]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.04.26-17.26.56:307][351]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.04.26-17.27.28:172][514]LogSlate: Took 0.004403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.26-17.27.43:565][167]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.28.22:309][ 25]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.26-17.28.24:163][189]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.26-17.28.24:166][189]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.26-17.28.28:625][647]BlueprintLog: New page: Compile SceneTemplate
+[2019.04.26-17.28.28:679][647]LogClass: Warning: Type mismatch in BackgroundMusicAsset of SceneTemplate_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.04.26-17.28.28:679][647]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.26-17.28.28:694][647]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.014 s
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: 
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '('! You must pass in fully qualified package names
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: Stack: 
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe82e54cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe81e73bd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe81ff07f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe81f56bf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe8261eee UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7f295f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbcada59ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbc8aad88a UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbc8ae89ac UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd317d0 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcdcebf UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbdfc896d8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbcadf3efc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd92d6f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbdfdb1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7a1226e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7b182a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7af309f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7bdc7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe79c8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7a62678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7a4857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffbe7a3b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc0173de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc01730de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc017401eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc0172ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc318d6d41 USER32.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc318d6713 USER32.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc01741746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ff69dee5546 UE4Editor.exe!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ff69def596c UE4Editor.exe!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ff69def59ea UE4Editor.exe!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ff69df048da UE4Editor.exe!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ff69df0659a UE4Editor.exe!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc31f34034 KERNEL32.DLL!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: [Callstack] 0x00007ffc32083691 ntdll.dll!UnknownFunction []
+[2019.04.26-17.28.28:695][647]LogOutputDevice: Error: 
+[2019.04.26-17.28.28:698][647]LogStats:                SubmitErrorReport -  0.000 s
